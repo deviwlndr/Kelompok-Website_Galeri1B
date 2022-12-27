@@ -42,9 +42,9 @@
             Categori
           </a>
           <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="">Cat</a></li>
-            <li><a class="dropdown-item" href="#">Flower</a></li>
-            <li><a class="dropdown-item" href="#">Random</a></li>
+            <li><a class="dropdown-item" href="cat.php">Cat</a></li>
+            <li><a class="dropdown-item" href="flower.php">Flower</a></li>
+            <li><a class="dropdown-item" href="random.php">Random</a></li>
           </ul>
         </li>  
       </ul>
